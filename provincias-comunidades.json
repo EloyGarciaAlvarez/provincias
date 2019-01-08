@@ -1,0 +1,262 @@
+[
+    {
+        "provincia_id": "01",
+        "comunidad_id": "16",
+        "nombre": "Araba/Álava"
+    },
+    {
+        "provincia_id": "02",
+        "comunidad_id": "08",
+        "nombre": "Albacete"
+    },
+    {
+        "provincia_id": "03",
+        "comunidad_id": "10",
+        "nombre": "Alicante/Alacant"
+    },
+    {
+        "provincia_id": "04",
+        "comunidad_id": "01",
+        "nombre": "Almería"
+    },
+    {
+        "provincia_id": "05",
+        "comunidad_id": "07",
+        "nombre": "Ávila"
+    },
+    {
+        "provincia_id": "06",
+        "comunidad_id": "11",
+        "nombre": "Badajoz"
+    },
+    {
+        "provincia_id": "07",
+        "comunidad_id": "04",
+        "nombre": "Balears, Illes"
+    },
+    {
+        "provincia_id": "08",
+        "comunidad_id": "09",
+        "nombre": "Barcelona"
+    },
+    {
+        "provincia_id": "09",
+        "comunidad_id": "07",
+        "nombre": "Burgos"
+    },
+    {
+        "provincia_id": "10",
+        "comunidad_id": "11",
+        "nombre": "Cáceres"
+    },
+    {
+        "provincia_id": "11",
+        "comunidad_id": "01",
+        "nombre": "Cádiz"
+    },
+    {
+        "provincia_id": "39",
+        "comunidad_id": "06",
+        "nombre": "Cantabria"
+    },
+    {
+        "provincia_id": "12",
+        "comunidad_id": "10",
+        "nombre": "Castellón/Castelló"
+    },
+    {
+        "provincia_id": "13",
+        "comunidad_id": "08",
+        "nombre": "Ciudad Real"
+    },
+    {
+        "provincia_id": "14",
+        "comunidad_id": "01",
+        "nombre": "Córdoba"
+    },
+    {
+        "provincia_id": "15",
+        "comunidad_id": "12",
+        "nombre": "Coruña, A"
+    },
+    {
+        "provincia_id": "16",
+        "comunidad_id": "08",
+        "nombre": "Cuenca"
+    },
+    {
+        "provincia_id": "20",
+        "comunidad_id": "16",
+        "nombre": "Gipuzkoa"
+    },
+    {
+        "provincia_id": "17",
+        "comunidad_id": "09",
+        "nombre": "Girona"
+    },
+    {
+        "provincia_id": "18",
+        "comunidad_id": "01",
+        "nombre": "Granada"
+    },
+    {
+        "provincia_id": "19",
+        "comunidad_id": "08",
+        "nombre": "Guadalajara"
+    },
+    {
+        "provincia_id": "21",
+        "comunidad_id": "01",
+        "nombre": "Huelva"
+    },
+    {
+        "provincia_id": "22",
+        "comunidad_id": "02",
+        "nombre": "Huesca"
+    },
+    {
+        "provincia_id": "23",
+        "comunidad_id": "01",
+        "nombre": "Jaén"
+    },
+    {
+        "provincia_id": "24",
+        "comunidad_id": "07",
+        "nombre": "León"
+    },
+    {
+        "provincia_id": "25",
+        "comunidad_id": "09",
+        "nombre": "Lleida"
+    },
+    {
+        "provincia_id": "27",
+        "comunidad_id": "12",
+        "nombre": "Lugo"
+    },
+    {
+        "provincia_id": "28",
+        "comunidad_id": "13",
+        "nombre": "Madrid"
+    },
+    {
+        "provincia_id": "29",
+        "comunidad_id": "01",
+        "nombre": "Málaga"
+    },
+    {
+        "provincia_id": "30",
+        "comunidad_id": "14",
+        "nombre": "Murcia"
+    },
+    {
+        "provincia_id": "31",
+        "comunidad_id": "15",
+        "nombre": "Navarra"
+    },
+    {
+        "provincia_id": "32",
+        "comunidad_id": "12",
+        "nombre": "Ourense"
+    },
+    {
+        "provincia_id": "33",
+        "comunidad_id": "03",
+        "nombre": "Asturias"
+    },
+    {
+        "provincia_id": "34",
+        "comunidad_id": "07",
+        "nombre": "Palencia"
+    },
+    {
+        "provincia_id": "35",
+        "comunidad_id": "05",
+        "nombre": "Palmas, Las"
+    },
+    {
+        "provincia_id": "36",
+        "comunidad_id": "12",
+        "nombre": "Pontevedra"
+    },
+    {
+        "provincia_id": "26",
+        "comunidad_id": "17",
+        "nombre": "Rioja, La"
+    },
+    {
+        "provincia_id": "37",
+        "comunidad_id": "07",
+        "nombre": "Salamanca"
+    },
+    {
+        "provincia_id": "38",
+        "comunidad_id": "05",
+        "nombre": "Santa Cruz de Tenerife"
+    },
+    {
+        "provincia_id": "40",
+        "comunidad_id": "07",
+        "nombre": "Segovia"
+    },
+    {
+        "provincia_id": "41",
+        "comunidad_id": "01",
+        "nombre": "Sevilla"
+    },
+    {
+        "provincia_id": "42",
+        "comunidad_id": "07",
+        "nombre": "Soria"
+    },
+    {
+        "provincia_id": "43",
+        "comunidad_id": "09",
+        "nombre": "Tarragona"
+    },
+    {
+        "provincia_id": "44",
+        "comunidad_id": "02",
+        "nombre": "Teruel"
+    },
+    {
+        "provincia_id": "45",
+        "comunidad_id": "08",
+        "nombre": "Toledo"
+    },
+    {
+        "provincia_id": "46",
+        "comunidad_id": "10",
+        "nombre": "Valencia/València"
+    },
+    {
+        "provincia_id": "47",
+        "comunidad_id": "07",
+        "nombre": "Valladolid"
+    },
+    {
+        "provincia_id": "48",
+        "comunidad_id": "16",
+        "nombre": "Bizkaia"
+    },
+    {
+        "provincia_id": "49",
+        "comunidad_id": "07",
+        "nombre": "Zamora"
+    },
+    {
+        "provincia_id": "50",
+        "comunidad_id": "02",
+        "nombre": "Zaragoza"
+    },
+    {
+        "provincia_id": "51",
+        "comunidad_id": "18",
+        "nombre": "Ceuta"
+    },
+    {
+        "provincia_id": "52",
+        "comunidad_id": "19",
+        "nombre": "Melilla"
+    }
+]
